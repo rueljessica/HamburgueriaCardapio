@@ -14,11 +14,11 @@ git clone <link_do_github>
 - Passo 2: Instalar o Tailwind CSS
 ```
 npm install -D tailwindcss
-
+```
 - Passo 3: Instalar dependências
 ```
 npm install
-
+```
 - Passo 4: Executar aplicação
 ```
 npm run dev
